@@ -16,7 +16,7 @@ Identificar patrones y comportamientos que están relacionados con la evasión d
 
 ## 📁 Contenido
 
-- `notebook.ipynb`: análisis completo paso a paso
+- `TelecomX_Latam.ipynb`: análisis completo paso a paso
 - `README.md`: este archivo
 
 ## 🚀 Herramientas
